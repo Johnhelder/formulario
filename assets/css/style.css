@@ -37,6 +37,27 @@
   padding-left: 75px;
 }
 
+.descricao{
+  font-size: 14px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 30px;
+  width: 300px;
+}
+
+.btn{
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 10px;
+  padding: 10px 20px;
+}
+
+.btn-primaria{
+  background-color: transparent;
+}
+
 .titulo-secundario{
   color: #000;
 }
