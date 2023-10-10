@@ -52,10 +52,17 @@
   color: #fff;
   font-size: 10px;
   padding: 10px 20px;
+  cursor: pointer;
 }
 
 .btn-primaria{
   background-color: transparent;
+}
+
+.btn-primaria:hover{
+  background-color: #fff;
+  color: #58af9b;
+  font-weight: 700;
 }
 
 .titulo-secundario{
